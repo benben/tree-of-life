@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <clade>
+          <clade>
+            <clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <clade>
+                            <clade>
+                              <clade>
+                                <clade>
+                                  <clade>
+                                    <clade>
+                                      <clade>
+                                        <clade>
+                                          <clade>
+                                            <name>Escherichia coli EDL933</name>
+                                          </clade>
+                                          <clade>
+                                            <name>Escherichia coli O157:H7</name>
+                                          </clade>
+                                          <name>Escherichia subclade</name>
+                                        </clade>
+                                        <clade>
+                                          <clade>
+                                            <clade>
+                                              <name>Escherichia coli O6</name>
+                                            </clade>
+                                            <clade>
+                                              <name>Escherichia coli K12</name>
+                                            </clade>
+                                            <name>Escherichia subclade #1</name>
+                                          </clade>
+                                          <clade>
+                                            <clade>
+                                              <name>Shigella flexneri 2a 2457T</name>
+                                            </clade>
+                                            <clade>
+                                              <name>Shigella flexneri 2a 301</name>
+                                            </clade>
+                                            <name>Shigella</name>
+                                          </clade>
+                                          <name>Enterobacteriaceae subclade</name>
+                                        </clade>
+                                        <name>Enterobacteriaceae subclade #1</name>
+                                      </clade>
+                                      <clade>
+                                        <clade>
+                                          <clade>
+                                            <name>Salmonella enterica</name>
+                                          </clade>
+                                          <clade>
+                                            <name>Salmonella typhi</name>
+                                          </clade>
+                                          <name>Salmonella subclade</name>
+                                        </clade>
+                                        <clade>
+                                          <name>Salmonella typhimurium</name>
+                                        </clade>
+                                        <name>Salmonella</name>
+                                      </clade>
+                                      <name>Enterobacteriaceae subclade #2</name>
+                                    </clade>
+                                    <clade>
+                                      <clade>
+                                        <clade>
+                                          <name>Yersinia pestis Medievalis</name>
+                                        </clade>
+                                        <clade>
+                                          <clade>
+                                            <name>Yersinia pestis KIM</name>
+                                          </clade>
+                                          <clade>
+                                            <name>Yersinia pestis CO92</name>
+                                          </clade>
+                                          <name>Yersinia subclade</name>
+                                        </clade>
+                                        <name>Yersinia</name>
+                                      </clade>
+                                      <clade>
+                                        <name>Photorhabdus luminescens</name>
+                                      </clade>
+                                      <name>Enterobacteriaceae subclade #3</name>
+                                    </clade>
+                                    <name>Enterobacteriaceae subclade #4</name>
+                                  </clade>
+                                  <clade>
+                                    <clade>
+                                      <clade>
+                                        <name>Blochmannia floridanus</name>
+                                      </clade>
+                                      <clade>
+                                        <name>Wigglesworthia brevipalpis</name>
+                                      </clade>
+                                      <name>Enterobacteriaceae subclade #5</name>
+                                    </clade>
+                                    <clade>
+                                      <clade>
+                                        <name>Buchnera aphidicola Bp</name>
+                                      </clade>
+                                      <clade>
+                                        <clade>
+                                          <name>Buchnera aphidicola APS</name>
+                                        </clade>
+                                        <clade>
+                                          <name>Buchnera aphidicola Sg</name>
+                                        </clade>
+                                        <name>Buchnera subclade</name>
+                                      </clade>
+                                      <name>Buchnera</name>
+                                    </clade>
+                                    <name>Enterobacteriaceae subclade #6</name>
+                                  </clade>
+                                  <name>Enterobacteriaceae</name>
+                                </clade>
+                                <clade>
+                                  <clade>
+                                    <clade>
+                                      <name>Pasteurella multocida</name>
+                                    </clade>
+                                    <clade>
+                                      <name>Haemophilus influenzae</name>
+                                    </clade>
+                                    <name>Pasteurellaceae subclade</name>
+                                  </clade>
+                                  <clade>
+                                    <name>Haemophilus ducreyi</name>
+                                  </clade>
+                                  <name>Pasteurellaceae</name>
+                                </clade>
+                                <name>Gammaproteobacteria subclade</name>
+                              </clade>
+                              <clade>
+                                <clade>
+                                  <clade>
+                                    <clade>
+                                      <clade>
+                                        <name>Vibrio vulnificus YJ016</name>
+                                      </clade>
+                                      <clade>
+                                        <name>Vibrio vulnificus CMCP6</name>
+                                      </clade>
+                                      <name>Vibrio subclade</name>
+                                    </clade>
+                                    <clade>
+                                      <name>Vibrio parahaemolyticus</name>
+                                    </clade>
+                                    <name>Vibrio subclade #1</name>
+                                  </clade>
+                                  <clade>
+                                    <name>Vibrio cholerae</name>
+                                  </clade>
+                                  <name>Vibrio</name>
+                                </clade>
+                                <clade>
+                                  <name>Photobacterium profundum</name>
+                                </clade>
+                                <name>Vibrionaceae</name>
+                              </clade>
+                              <name>Gammaproteobacteria subclade #1</name>
+                            </clade>
+                            <clade>
+                              <name>Shewanella oneidensis</name>
+                            </clade>
+                            <name>Gammaproteobacteria subclade #2</name>
+                          </clade>
+                          <clade>
+                            <clade>
+                              <clade>
+                                <name>Pseudomonas putida</name>
+                              </clade>
+                              <clade>
+                                <name>Pseudomonas syringae</name>
+                              </clade>
+                              <name>Pseudomonas subclade</name>
+                            </clade>
+                            <clade>
+                              <name>Pseudomonas aeruginosa</name>
+                            </clade>
+                            <name>Pseudomonas</name>
+                          </clade>
+                          <name>Gammaproteobacteria subclade #3</name>
+                        </clade>
+                        <clade>
+                          <clade>
+                            <clade>
+                              <name>Xylella fastidiosa 700964</name>
+                            </clade>
+                            <clade>
+                              <name>Xylella fastidiosa 9a5c</name>
+                            </clade>
+                            <name>Xylella</name>
+                          </clade>
+                          <clade>
+                            <clade>
+                              <name>Xanthomonas axonopodis</name>
+                            </clade>
+                            <clade>
+                              <name>Xanthomonas campestris</name>
+                            </clade>
+                            <name>Xanthomonas</name>
+                          </clade>
+                          <name>Xanthomonadaceae</name>
+                        </clade>
+                        <name>Gammaproteobacteria subclade #4</name>
+                      </clade>
+                      <clade>
+                        <name>Coxiella burnetii</name>
+                      </clade>
+                      <name>Gammaproteobacteria</name>
+                    </clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <clade>
+                            <clade>
+                              <name>Neisseria meningitidis A</name>
+                            </clade>
+                            <clade>
+                              <name>Neisseria meningitidis B</name>
+                            </clade>
+                            <name>Neisseria</name>
+                          </clade>
+                          <clade>
+                            <name>Chromobacterium violaceum</name>
+                          </clade>
+                          <name>Neisseriaceae</name>
+                        </clade>
+                        <clade>
+                          <clade>
+                            <clade>
+                              <name>Bordetella pertussis</name>
+                            </clade>
+                            <clade>
+                              <clade>
+                                <name>Bordetella parapertussis</name>
+                              </clade>
+                              <clade>
+                                <name>Bordetella bronchiseptica</name>
+                              </clade>
+                              <name>Bordetella subclade</name>
+                            </clade>
+                            <name>Bordetella</name>
+                          </clade>
+                          <clade>
+                            <name>Ralstonia solanacearum</name>
+                          </clade>
+                          <name>Burkholderiales</name>
+                        </clade>
+                        <name>Betaproteobacteria subclade</name>
+                      </clade>
+                      <clade>
+                        <name>Nitrosomonas europaea</name>
+                      </clade>
+                      <name>Betaproteobacteria</name>
+                    </clade>
+                    <name>Proteobacteria subclade</name>
+                  </clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <clade>
+                            <clade>
+                              <clade>
+                                <name>Agrobacterium tumefaciens Cereon</name>
+                              </clade>
+                              <clade>
+                                <name>Agrobacterium tumefaciens WashU</name>
+                              </clade>
+                              <name>Agrobacterium tumefaciens subclade</name>
+                            </clade>
+                            <clade>
+                              <name>Rhizobium meliloti</name>
+                            </clade>
+                            <name>Sinorhizobium</name>
+                          </clade>
+                          <clade>
+                            <clade>
+                              <clade>
+                                <name>Brucella suis</name>
+                              </clade>
+                              <clade>
+                                <name>Brucella melitensis</name>
+                              </clade>
+                              <name>Brucella</name>
+                            </clade>
+                            <clade>
+                              <name>Rhizobium loti</name>
+                            </clade>
+                            <name>Rhizobiales subclade</name>
+                          </clade>
+                          <name>Rhizobiales subclade #1</name>
+                        </clade>
+                        <clade>
+                          <clade>
+                            <name>Rhodopseudomonas palustris</name>
+                          </clade>
+                          <clade>
+                            <name>Bradyrhizobium japonicum</name>
+                          </clade>
+                          <name>Bradyrhizobiaceae</name>
+                        </clade>
+                        <name>Rhizobiales</name>
+                      </clade>
+                      <clade>
+                        <name>Caulobacter crescentus</name>
+                      </clade>
+                      <name>Alphaproteobacteria subclade</name>
+                    </clade>
+                    <clade>
+                      <clade>
+                        <name>Wolbachia sp. wMel</name>
+                      </clade>
+                      <clade>
+                        <clade>
+                          <name>Rickettsia prowazekii</name>
+                        </clade>
+                        <clade>
+                          <name>Rickettsia conorii</name>
+                        </clade>
+                        <name>Rickettsia</name>
+                      </clade>
+                      <name>Rickettsiaceae</name>
+                    </clade>
+                    <name>Alphaproteobacteria</name>
+                  </clade>
+                  <name>Proteobacteria subclade #1</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <name>Helicobacter pylori J99</name>
+                        </clade>
+                        <clade>
+                          <name>Helicobacter pylori 26695</name>
+                        </clade>
+                        <name>Helicobacter subclade</name>
+                      </clade>
+                      <clade>
+                        <name>Helicobacter hepaticus</name>
+                      </clade>
+                      <name>Helicobacter</name>
+                    </clade>
+                    <clade>
+                      <name>Wolinella succinogenes</name>
+                    </clade>
+                    <name>Helicobacteraceae</name>
+                  </clade>
+                  <clade>
+                    <name>Campylobacter jejuni</name>
+                  </clade>
+                  <name>Campylobacterales</name>
+                </clade>
+                <name>Proteobacteria subclade #2</name>
+              </clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <name>Desulfovibrio vulgaris</name>
+                  </clade>
+                  <clade>
+                    <clade>
+                      <name>Geobacter sulfurreducens</name>
+                    </clade>
+                    <clade>
+                      <name>Bdellovibrio bacteriovorus</name>
+                    </clade>
+                    <name>Deltaproteobacteria subclade</name>
+                  </clade>
+                  <name>Deltaproteobacteria</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <name>Acidobacterium capsulatum</name>
+                  </clade>
+                  <clade>
+                    <name>Solibacter usitatus</name>
+                  </clade>
+                  <name>Acidobacteria</name>
+                </clade>
+                <name>Bacteria subclade</name>
+              </clade>
+              <name>Bacteria subclade #1</name>
+            </clade>
+            <clade>
+              <clade>
+                <clade>
+                  <name>Fusobacterium nucleatum</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <name>Aquifex aeolicus</name>
+                  </clade>
+                  <clade>
+                    <name>Thermotoga maritima</name>
+                  </clade>
+                  <name>Bacteria subclade #2</name>
+                </clade>
+                <name>Bacteria subclade #3</name>
+              </clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <name>Thermus thermophilus</name>
+                    </clade>
+                    <clade>
+                      <name>Deinococcus radiodurans</name>
+                    </clade>
+                    <name>Deinococci</name>
+                  </clade>
+                  <clade>
+                    <name>Dehalococcoides ethenogenes</name>
+                  </clade>
+                  <name>Bacteria subclade #4</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <name>Nostoc sp. PCC 7120</name>
+                        </clade>
+                        <clade>
+                          <name>Synechocystis sp. PCC6803</name>
+                        </clade>
+                        <name>Cyanobacteria subclade</name>
+                      </clade>
+                      <clade>
+                        <name>Synechococcus elongatus</name>
+                      </clade>
+                      <name>Cyanobacteria subclade #1</name>
+                    </clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <clade>
+                            <name>Synechococcus sp. WH8102</name>
+                          </clade>
+                          <clade>
+                            <name>Prochlorococcus marinus MIT9313</name>
+                          </clade>
+                          <name>Cyanobacteria subclade #2</name>
+                        </clade>
+                        <clade>
+                          <name>Prochlorococcus marinus SS120</name>
+                        </clade>
+                        <name>Cyanobacteria subclade #3</name>
+                      </clade>
+                      <clade>
+                        <name>Prochlorococcus marinus CCMP1378</name>
+                      </clade>
+                      <name>Cyanobacteria subclade #4</name>
+                    </clade>
+                    <name>Cyanobacteria subclade #5</name>
+                  </clade>
+                  <clade>
+                    <name>Gloeobacter violaceus</name>
+                  </clade>
+                  <name>Cyanobacteria</name>
+                </clade>
+                <name>Bacteria subclade #5</name>
+              </clade>
+              <name>Bacteria subclade #6</name>
+            </clade>
+            <name>Bacteria subclade #7</name>
+          </clade>
+          <clade>
+            <clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <name>Gemmata obscuriglobus</name>
+                  </clade>
+                  <clade>
+                    <name>Rhodopirellula baltica</name>
+                  </clade>
+                  <name>Planctomycetaceae</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <name>Leptospira interrogans L1-130</name>
+                    </clade>
+                    <clade>
+                      <name>Leptospira interrogans 56601</name>
+                    </clade>
+                    <name>Leptospira</name>
+                  </clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <name>Treponema pallidum</name>
+                      </clade>
+                      <clade>
+                        <name>Treponema denticola</name>
+                      </clade>
+                      <name>Treponema</name>
+                    </clade>
+                    <clade>
+                      <name>Borrelia burgdorferi</name>
+                    </clade>
+                    <name>Spirochaetaceae</name>
+                  </clade>
+                  <name>Spirochaetales</name>
+                </clade>
+                <name>Bacteria subclade #8</name>
+              </clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <name>Tropheryma whipplei TW08/27</name>
+                    </clade>
+                    <clade>
+                      <name>Tropheryma whipplei Twist</name>
+                    </clade>
+                    <name>Tropheryma</name>
+                  </clade>
+                  <clade>
+                    <name>Bifidobacterium longum</name>
+                  </clade>
+                  <name>Actinobacteridae subclade</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <clade>
+                            <name>Corynebacterium glutamicum 13032</name>
+                          </clade>
+                          <clade>
+                            <name>Corynebacterium glutamicum</name>
+                          </clade>
+                          <name>Corynebacterium subclade</name>
+                        </clade>
+                        <clade>
+                          <name>Corynebacterium efficiens</name>
+                        </clade>
+                        <name>Corynebacterium subclade #1</name>
+                      </clade>
+                      <clade>
+                        <name>Corynebacterium diphtheriae</name>
+                      </clade>
+                      <name>Corynebacterium</name>
+                    </clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <clade>
+                            <name>Mycobacterium bovis</name>
+                          </clade>
+                          <clade>
+                            <clade>
+                              <name>Mycobacterium tuberculosis CDC1551</name>
+                            </clade>
+                            <clade>
+                              <name>Mycobacterium tuberculosis H37Rv</name>
+                            </clade>
+                            <name>Mycobacterium subclade</name>
+                          </clade>
+                          <name>Mycobacterium subclade #1</name>
+                        </clade>
+                        <clade>
+                          <name>Mycobacterium leprae</name>
+                        </clade>
+                        <name>Mycobacterium subclade #2</name>
+                      </clade>
+                      <clade>
+                        <name>Mycobacterium paratuberculosis</name>
+                      </clade>
+                      <name>Mycobacterium</name>
+                    </clade>
+                    <name>Corynebacterineae</name>
+                  </clade>
+                  <clade>
+                    <clade>
+                      <name>Streptomyces avermitilis</name>
+                    </clade>
+                    <clade>
+                      <name>Streptomyces coelicolor</name>
+                    </clade>
+                    <name>Streptomyces</name>
+                  </clade>
+                  <name>Actinomycetales subclade</name>
+                </clade>
+                <name>Actinobacteridae</name>
+              </clade>
+              <name>Bacteria subclade #9</name>
+            </clade>
+            <clade>
+              <clade>
+                <clade>
+                  <name>Fibrobacter succinogenes</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <name>Chlorobium tepidum</name>
+                  </clade>
+                  <clade>
+                    <clade>
+                      <name>Porphyromonas gingivalis</name>
+                    </clade>
+                    <clade>
+                      <name>Bacteroides thetaiotaomicron</name>
+                    </clade>
+                    <name>Bacteroidales</name>
+                  </clade>
+                  <name>Bacteroidetes/Chlorobi group</name>
+                </clade>
+                <name>Bacteria subclade #10</name>
+              </clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <name>Chlamydophila pneumoniae TW183</name>
+                    </clade>
+                    <clade>
+                      <clade>
+                        <name>Chlamydia pneumoniae J138</name>
+                      </clade>
+                      <clade>
+                        <clade>
+                          <name>Chlamydia pneumoniae CWL029</name>
+                        </clade>
+                        <clade>
+                          <name>Chlamydia pneumoniae AR39</name>
+                        </clade>
+                        <name>Chlamydophila subclade</name>
+                      </clade>
+                      <name>Chlamydophila subclade #1</name>
+                    </clade>
+                    <name>Chlamydophila subclade #2</name>
+                  </clade>
+                  <clade>
+                    <name>Chlamydophila caviae</name>
+                  </clade>
+                  <name>Chlamydophila</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <name>Chlamydia muridarum</name>
+                  </clade>
+                  <clade>
+                    <name>Chlamydia trachomatis</name>
+                  </clade>
+                  <name>Chlamydia</name>
+                </clade>
+                <name>Chlamydiaceae</name>
+              </clade>
+              <name>Bacteria subclade #11</name>
+            </clade>
+            <name>Bacteria subclade #12</name>
+          </clade>
+          <name>Bacteria subclade #13</name>
+        </clade>
+        <clade>
+          <clade>
+            <clade>
+              <name>Thermoanaerobacter tengcongensis</name>
+            </clade>
+            <clade>
+              <clade>
+                <clade>
+                  <name>Clostridium tetani</name>
+                </clade>
+                <clade>
+                  <name>Clostridium perfringens</name>
+                </clade>
+                <name>Clostridium subclade</name>
+              </clade>
+              <clade>
+                <name>Clostridium acetobutylicum</name>
+              </clade>
+              <name>Clostridium</name>
+            </clade>
+            <name>Clostridia</name>
+          </clade>
+          <clade>
+            <clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <name>Mycoplasma mobile</name>
+                    </clade>
+                    <clade>
+                      <name>Mycoplasma pulmonis</name>
+                    </clade>
+                    <name>Mycoplasma subclade</name>
+                  </clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <clade>
+                            <name>Mycoplasma pneumoniae</name>
+                          </clade>
+                          <clade>
+                            <name>Mycoplasma genitalium</name>
+                          </clade>
+                          <name>Mycoplasma subclade #1</name>
+                        </clade>
+                        <clade>
+                          <name>Mycoplasma gallisepticum</name>
+                        </clade>
+                        <name>Mycoplasma subclade #2</name>
+                      </clade>
+                      <clade>
+                        <name>Mycoplasma penetrans</name>
+                      </clade>
+                      <name>Mycoplasma subclade #3</name>
+                    </clade>
+                    <clade>
+                      <name>Ureaplasma parvum</name>
+                    </clade>
+                    <name>Mycoplasmataceae subclade</name>
+                  </clade>
+                  <name>Mycoplasmataceae subclade #1</name>
+                </clade>
+                <clade>
+                  <name>Mycoplasma mycoides</name>
+                </clade>
+                <name>Mycoplasmataceae</name>
+              </clade>
+              <clade>
+                <name>Phytoplasma Onion yellows</name>
+              </clade>
+              <name>Mollicutes</name>
+            </clade>
+            <clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <name>Listeria monocytogenes F2365</name>
+                      </clade>
+                      <clade>
+                        <name>Listeria monocytogenes EGD</name>
+                      </clade>
+                      <name>Listeria subclade</name>
+                    </clade>
+                    <clade>
+                      <name>Listeria innocua</name>
+                    </clade>
+                    <name>Listeria</name>
+                  </clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <name>Oceanobacillus iheyensis</name>
+                      </clade>
+                      <clade>
+                        <name>Bacillus halodurans</name>
+                      </clade>
+                      <name>Bacillaceae subclade</name>
+                    </clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <clade>
+                            <name>Bacillus cereus ATCC 14579</name>
+                          </clade>
+                          <clade>
+                            <name>Bacillus cereus ATCC 10987</name>
+                          </clade>
+                          <name>Bacillus subclade</name>
+                        </clade>
+                        <clade>
+                          <name>Bacillus anthracis</name>
+                        </clade>
+                        <name>Bacillus subclade #1</name>
+                      </clade>
+                      <clade>
+                        <name>Bacillus subtilis</name>
+                      </clade>
+                      <name>Bacillus</name>
+                    </clade>
+                    <name>Bacillaceae</name>
+                  </clade>
+                  <name>Bacillales subclade</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <name>Staphylococcus aureus MW2</name>
+                    </clade>
+                    <clade>
+                      <clade>
+                        <name>Staphylococcus aureus N315</name>
+                      </clade>
+                      <clade>
+                        <name>Staphylococcus aureus Mu50</name>
+                      </clade>
+                      <name>Staphylococcus subclade</name>
+                    </clade>
+                    <name>Staphylococcus subclade #1</name>
+                  </clade>
+                  <clade>
+                    <name>Staphylococcus epidermidis</name>
+                  </clade>
+                  <name>Staphylococcus</name>
+                </clade>
+                <name>Bacillales</name>
+              </clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <clade>
+                            <clade>
+                              <name>Streptococcus agalactiae III</name>
+                            </clade>
+                            <clade>
+                              <name>Streptococcus agalactiae V</name>
+                            </clade>
+                            <name>Streptococcus subclade</name>
+                          </clade>
+                          <clade>
+                            <clade>
+                              <name>Streptococcus pyogenes M1</name>
+                            </clade>
+                            <clade>
+                              <clade>
+                                <name>Streptococcus pyogenes MGAS8232</name>
+                              </clade>
+                              <clade>
+                                <clade>
+                                  <name>Streptococcus pyogenes MGAS315</name>
+                                </clade>
+                                <clade>
+                                  <name>Streptococcus pyogenes SSI-1</name>
+                                </clade>
+                                <name>Streptococcus subclade #1</name>
+                              </clade>
+                              <name>Streptococcus subclade #2</name>
+                            </clade>
+                            <name>Streptococcus subclade #3</name>
+                          </clade>
+                          <name>Streptococcus subclade #4</name>
+                        </clade>
+                        <clade>
+                          <name>Streptococcus mutans</name>
+                        </clade>
+                        <name>Streptococcus subclade #5</name>
+                      </clade>
+                      <clade>
+                        <clade>
+                          <name>Streptococcus pneumoniae R6</name>
+                        </clade>
+                        <clade>
+                          <name>Streptococcus pneumoniae TIGR4</name>
+                        </clade>
+                        <name>Streptococcus subclade #6</name>
+                      </clade>
+                      <name>Streptococcus</name>
+                    </clade>
+                    <clade>
+                      <name>Lactococcus lactis</name>
+                    </clade>
+                    <name>Streptococcaceae</name>
+                  </clade>
+                  <clade>
+                    <name>Enterococcus faecalis</name>
+                  </clade>
+                  <name>Lactobacillales subclade</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <name>Lactobacillus johnsonii</name>
+                  </clade>
+                  <clade>
+                    <name>Lactobacillus plantarum</name>
+                  </clade>
+                  <name>Lactobacillus</name>
+                </clade>
+                <name>Lactobacillales</name>
+              </clade>
+              <name>Bacilli</name>
+            </clade>
+            <name>Firmicutes subclade</name>
+          </clade>
+          <name>Firmicutes</name>
+        </clade>
+        <name>Bacteria</name>
+      </clade>
+      <clade>
+        <clade>
+          <clade>
+            <clade>
+              <clade>
+                <name>Thalassiosira pseudonana</name>
+              </clade>
+              <clade>
+                <clade>
+                  <name>Cryptosporidium hominis</name>
+                </clade>
+                <clade>
+                  <name>Plasmodium falciparum</name>
+                </clade>
+                <name>Apicomplexa</name>
+              </clade>
+              <name>Eukaryota subclade</name>
+            </clade>
+            <clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <name>Oryza sativa</name>
+                  </clade>
+                  <clade>
+                    <name>Arabidopsis thaliana</name>
+                  </clade>
+                  <name>Streptophyta</name>
+                </clade>
+                <clade>
+                  <name>Cyanidioschyzon merolae</name>
+                </clade>
+                <name>Eukaryota subclade #1</name>
+              </clade>
+              <clade>
+                <clade>
+                  <name>Dictyostelium discoideum</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <name>Eremothecium gossypii</name>
+                      </clade>
+                      <clade>
+                        <name>Saccharomyces cerevisiae</name>
+                      </clade>
+                      <name>Saccharomycetaceae</name>
+                    </clade>
+                    <clade>
+                      <name>Schizosaccharomyces pombe</name>
+                    </clade>
+                    <name>Ascomycota</name>
+                  </clade>
+                  <clade>
+                    <clade>
+                      <clade>
+                        <clade>
+                          <name>Anopheles gambiae</name>
+                        </clade>
+                        <clade>
+                          <name>Drosophila melanogaster</name>
+                        </clade>
+                        <name>Diptera</name>
+                      </clade>
+                      <clade>
+                        <clade>
+                          <clade>
+                            <name>Takifugu rubripes</name>
+                          </clade>
+                          <clade>
+                            <name>Danio rerio</name>
+                          </clade>
+                          <name>Actinopterygii</name>
+                        </clade>
+                        <clade>
+                          <clade>
+                            <clade>
+                              <clade>
+                                <name>Rattus norvegicus</name>
+                              </clade>
+                              <clade>
+                                <name>Mus musculus</name>
+                              </clade>
+                              <name>Murinae</name>
+                            </clade>
+                            <clade>
+                              <clade>
+                                <name>Homo sapiens</name>
+                              </clade>
+                              <clade>
+                                <name>Pan troglodytes</name>
+                              </clade>
+                              <name>Hominidae</name>
+                            </clade>
+                            <name>Euarchontoglires</name>
+                          </clade>
+                          <clade>
+                            <name>Gallus gallus</name>
+                          </clade>
+                          <name>Gnathostomata subclade</name>
+                        </clade>
+                        <name>Gnathostomata</name>
+                      </clade>
+                      <name>Metazoa subclade</name>
+                    </clade>
+                    <clade>
+                      <clade>
+                        <name>Caenorhabditis elegans</name>
+                      </clade>
+                      <clade>
+                        <name>Caenorhabditis briggsae</name>
+                      </clade>
+                      <name>Caenorhabditis</name>
+                    </clade>
+                    <name>Metazoa</name>
+                  </clade>
+                  <name>Eukaryota subclade #2</name>
+                </clade>
+                <name>Eukaryota subclade #3</name>
+              </clade>
+              <name>Eukaryota subclade #4</name>
+            </clade>
+            <name>Eukaryota subclade #5</name>
+          </clade>
+          <clade>
+            <name>Leishmania major</name>
+          </clade>
+          <name>Eukaryota subclade #6</name>
+        </clade>
+        <clade>
+          <name>Giardia lamblia</name>
+        </clade>
+        <name>Eukaryota</name>
+      </clade>
+      <clade>
+        <clade>
+          <clade>
+            <name>Nanoarchaeum equitans</name>
+          </clade>
+          <clade>
+            <clade>
+              <clade>
+                <clade>
+                  <name>Sulfolobus tokodaii</name>
+                </clade>
+                <clade>
+                  <name>Sulfolobus solfataricus</name>
+                </clade>
+                <name>Sulfolobus</name>
+              </clade>
+              <clade>
+                <name>Aeropyrum pernix</name>
+              </clade>
+              <name>Thermoprotei subclade</name>
+            </clade>
+            <clade>
+              <name>Pyrobaculum aerophilum</name>
+            </clade>
+            <name>Thermoprotei</name>
+          </clade>
+          <name>Archaea subclade</name>
+        </clade>
+        <clade>
+          <clade>
+            <clade>
+              <name>Thermoplasma volcanium</name>
+            </clade>
+            <clade>
+              <name>Thermoplasma acidophilum</name>
+            </clade>
+            <name>Thermoplasma</name>
+          </clade>
+          <clade>
+            <clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <name>Methanobacterium thermautotrophicum</name>
+                  </clade>
+                  <clade>
+                    <name>Methanopyrus kandleri</name>
+                  </clade>
+                  <name>Euryarchaeota subclade</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <name>Methanococcus maripaludis</name>
+                  </clade>
+                  <clade>
+                    <name>Methanococcus jannaschii</name>
+                  </clade>
+                  <name>Methanococcales</name>
+                </clade>
+                <name>Euryarchaeota subclade #1</name>
+              </clade>
+              <clade>
+                <clade>
+                  <clade>
+                    <name>Pyrococcus horikoshii</name>
+                  </clade>
+                  <clade>
+                    <name>Pyrococcus abyssi</name>
+                  </clade>
+                  <name>Pyrococcus subclade</name>
+                </clade>
+                <clade>
+                  <name>Pyrococcus furiosus</name>
+                </clade>
+                <name>Pyrococcus</name>
+              </clade>
+              <name>Euryarchaeota subclade #2</name>
+            </clade>
+            <clade>
+              <clade>
+                <name>Archaeoglobus fulgidus</name>
+              </clade>
+              <clade>
+                <clade>
+                  <name>Halobacterium sp. NRC-1</name>
+                </clade>
+                <clade>
+                  <clade>
+                    <name>Methanosarcina acetivorans</name>
+                  </clade>
+                  <clade>
+                    <name>Methanosarcina mazei</name>
+                  </clade>
+                  <name>Methanosarcina</name>
+                </clade>
+                <name>Euryarchaeota subclade #3</name>
+              </clade>
+              <name>Euryarchaeota subclade #4</name>
+            </clade>
+            <name>Euryarchaeota subclade #5</name>
+          </clade>
+          <name>Euryarchaeota</name>
+        </clade>
+        <name>Archaea</name>
+      </clade>
+      <name>root</name>
+    </clade>
+  </phylogeny>
+</phyloxml>
